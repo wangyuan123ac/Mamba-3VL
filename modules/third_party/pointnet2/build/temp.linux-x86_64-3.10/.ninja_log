@@ -1,0 +1,6 @@
+# ninja log v5
+13	25780	1733557508718327758	/nas/shared/public/wangyuan1/PQ3D/modules/third_party/pointnet2/build/temp.linux-x86_64-3.10/_ext_src/src/group_points.o	df80f6d69c02c0f0
+13	25834	1733557508739186492	/nas/shared/public/wangyuan1/PQ3D/modules/third_party/pointnet2/build/temp.linux-x86_64-3.10/_ext_src/src/bindings.o	6d54c5d7751ce942
+14	25868	1733557508738434571	/nas/shared/public/wangyuan1/PQ3D/modules/third_party/pointnet2/build/temp.linux-x86_64-3.10/_ext_src/src/sampling.o	a486d1247dc636a3
+13	25878	1733557508796695815	/nas/shared/public/wangyuan1/PQ3D/modules/third_party/pointnet2/build/temp.linux-x86_64-3.10/_ext_src/src/interpolate.o	e72e521ad35df490
+13	25889	1733557508837154712	/nas/shared/public/wangyuan1/PQ3D/modules/third_party/pointnet2/build/temp.linux-x86_64-3.10/_ext_src/src/ball_query.o	2d798ae7cd872eb
